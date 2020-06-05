@@ -14,7 +14,17 @@
  </script>
         <style> 
 
-           
+            .buttonChange{
+color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+width: 145px;
+height: 37px;
+text-align: center;
+vertical-align:middle;
+line-height: 0.6;
+
+}
             * { 
                 box-sizing: border-box; 
             } 
@@ -59,7 +69,7 @@
                 float: left;
                 width: 31%;
                 padding: 10px;
-                text-align: justify;
+                
                 height:auto;
                
                 
@@ -68,7 +78,7 @@
                 float: left;
                 width: 31%;
                 padding: 10px;
-                text-align: justify;
+               
                 
                 
             }
@@ -76,7 +86,7 @@
                 float: right; 
                 width: 31%; 
                 padding: 10px; 
-                text-align:justify; 
+              
                 
                
             } 
@@ -84,7 +94,7 @@
                 margin-top:0px;
                 margin-bottom:6px;
                 color:black; 
-                text-align:center; 
+                text-align:left; 
                 font-size:medium;
             } 
             
@@ -123,7 +133,8 @@
   left: 0;
   height: 25px;
   width: 25px;
-  background-color: #eee;
+  background-color: #cccccc;
+  border-color:#6c757d;
 }
 
 /* On mouse-over, add a grey background color */
@@ -370,21 +381,21 @@ input {
 
                 <asp:UpdatePanel runat="server" id="UpdatePanel" updatemode="Conditional">
         <Triggers>
-            <asp:AsyncPostBackTrigger controlid="btnCreate" eventname="Click" />
+            <asp:AsyncPostBackTrigger controlid="btnCreate" eventname="Click"  />
         </Triggers>
             <ContentTemplate>
-           <asp:Label ID="lblMsg" runat="server" visible="false"></asp:Label>
+           <asp:Label ID="lblMsg" runat="server" visible="false" ForeColor="Green" ></asp:Label>
   
 
                 
-<input type="text" name="Header" placeholder="Header" id="txtHeader" runat="server"  />
+<input type="text" name="Header" placeholder="Enter Header for new Section" id="txtHeader" runat="server"  />
                 <br />
     <asp:TextBox ID="txtEditor" runat="server" Height="450px" Width="100%" BackColor="White" />
 
     <asp:HtmlEditorExtender ID="HtmlEditorExtender1" runat="server" TargetControlID="txtEditor" EnableSanitization="false">
     </asp:HtmlEditorExtender>
     <br />
-  <asp:Button ID="btnCreate" runat="server" Text="Create" OnClick="btnCreate_Click" />
+  <asp:Button ID="btnCreate" runat="server" Text="Create" OnClick="btnCreate_Click"  CssClass="buttonChange"/>
     </ContentTemplate>
         </asp:UpdatePanel>
 
@@ -400,21 +411,23 @@ input {
             <asp:AsyncPostBackTrigger controlid="btnSaveQues" eventname="Click"/>
         </Triggers>
             <ContentTemplate>
-               <asp:DropDownList ID="ddlDisplayQuiz" runat="server" Width="100px" >
+               <asp:DropDownList ID="ddlDisplayQuiz" runat="server" Width="145px" Height="25px">
                          <asp:ListItem >2</asp:ListItem>
                          <asp:ListItem >3</asp:ListItem>
                          <asp:ListItem >4</asp:ListItem>
                          <asp:ListItem >5</asp:ListItem>
                                 </asp:DropDownList>
                     <br /> <br />
-                    <asp:Button ID="btnSaveQues" runat="server" Text="Save" OnClick="btnSaveQues_Click" Height="12px" Width="110px" />
+                    <asp:Button ID="btnSaveQues" runat="server" Text="Save" OnClick="btnSaveQues_Click"  CssClass="buttonChange" />
                 </ContentTemplate></asp:UpdatePanel>
                     </div>
 
                 <br /><br />
 
                  <h2>Notification interval</h2> 
-                   <asp:DropDownList ID="ddlTime" runat="server" Width="100px" >
+                 <div class="dropdown">
+                 <div class="dropdown-content"></div>
+                   <asp:DropDownList ID="ddlTime" runat="server"  Width="145px" Height="25px">
                          <asp:ListItem >30 mins</asp:ListItem>
                          <asp:ListItem >60 mins</asp:ListItem>
                          <asp:ListItem >90 mins</asp:ListItem>
@@ -422,9 +435,9 @@ input {
                                 </asp:DropDownList>
                     <br /> <br />
                 
-                    <asp:Button ID="clickme" runat="server" Text="Save" OnClientClick="js();" />
+                    <asp:Button ID="clickme" runat="server" Text="Save" OnClientClick="js();"  CssClass="buttonChange"/>
                  
-</div> 
+</div> </div>
               
        <div class = "columnC"> 
                 <h2>Activities</h2> 
@@ -434,7 +447,7 @@ input {
         </Triggers>
             <ContentTemplate>
                 <asp:Panel ID="pnlSections" runat="server" Height="550px" BorderWidth="1px" ScrollBars="Auto">
-           <asp:Label ID="lblMsgPanel" runat="server" Visible="false"></asp:Label>
+           <asp:Label ID="lblMsgPanel" runat="server" Visible="false" ForeColor="Green" ></asp:Label>
                   <asp:DataList id="ddlPanels" runat="server" OnItemDataBound="ddlPanels_ItemDataBound">
                <ItemTemplate>
                    
@@ -449,7 +462,8 @@ input {
 
            </asp:DataList>
                      </asp:Panel>
-           <asp:Button ID="btnSave" runat="server" Text="Save" OnClick="btnSave_Click" />
+                <br />
+           <asp:Button ID="btnSave" runat="server" Text="Save" OnClick="btnSave_Click"  CssClass="buttonChange"/>
                    
                 </ContentTemplate>
         </asp:UpdatePanel>
