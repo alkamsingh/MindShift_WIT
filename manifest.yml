@@ -1,0 +1,4 @@
+ applications:
+ - name: MindShift_WIT
+   random-route: true
+   memory: 512M
