@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QUIZ>
+  <Question>
+    <ID>1</ID>
+    <Status>open</Status>
+    <ques>Q. The novel coronavirus is the same as COVID-19</ques>
+    <options>True,False</options>
+    <Answer>True</Answer>
+  </Question>
+  <Question>
+    <ID>2</ID>
+    <Status>open</Status>
+    <ques>Q. A person who has no symptoms of COVID-19 is not a risk to others?</ques>
+    <options>True,False</options>
+    <Answer>False</Answer>
+  </Question>
+  <Question>
+    <ID>3</ID>
+    <Status>open</Status>
+    <ques>Q. People under age 35 in the US can get infected with coronavirus, and get sick, but there are no reported COVID deaths of young adults in this age group</ques>
+    <options>True,False</options>
+    <Answer>False</Answer>
+  </Question>
+  <Question>
+    <ID>4</ID>
+    <Status>open</Status>
+    <ques>Q. On March 1st, there were fewer than a dozen known COVID-19 related deaths in the US. Two months later, how many COVID-19 deaths were reported in the US?</ques>
+    <options>About 20000,About 40000,About 60000,About 80000</options>
+    <Answer>
+    </Answer>
+  </Question>
+  <Question>
+    <ID>5</ID>
+    <Status>open</Status>
+    <ques>Q. Antibiotics can prevent and treat COVID-19.</ques>
+    <options>True,False</options>
+    <Answer>False</Answer>
+  </Question>
+  <Question>
+    <ID>6</ID>
+    <Status>open</Status>
+    <ques> Q. I should go to the emergency room for a test to make sure I don’t have COVID-19.</ques>
+    <options>True,False</options>
+    <Answer> False </Answer>
+  </Question>
+  <Question>
+    <ID>7</ID>
+    <Status>open</Status>
+    <ques> Q. Most people who get COVID-19 need to go to the hospital. </ques>
+    <options>True,False</options>
+    <Answer>   False</Answer>
+  </Question>
+  <Question>
+    <ID>8</ID>
+    <Status>open</Status>
+    <ques> Q. You can carry the virus for 14 days before showing any symptoms. </ques>
+    <options>True,False</options>
+    <Answer>False </Answer>
+  </Question>
+  <Question>
+    <ID>9</ID>
+    <Status>open</Status>
+    <ques>Q. I should wear a mask to protect from getting COVID-19. </ques>
+    <options>True,False</options>
+    <Answer>  True</Answer>
+  </Question>
+  <Question>
+    <ID>10</ID>
+    <Status>open</Status>
+    <ques>Q. The virus that causes COVID-19 can live on surfaces up to several days.</ques>
+    <options>True,False</options>
+    <Answer>  True </Answer>
+  </Question>
+  <Question>
+    <ID>11</ID>
+    <Status>open</Status>
+    <ques>  Q. COVID-19 does not affect kids. </ques>
+    <options>True,False</options>
+    <Answer> False </Answer>
+  </Question>
+  <Question>
+    <ID>12</ID>
+    <Status>open</Status>
+    <ques>  Q. It's OK for my neighborhood friends to come play in my yard as long as we stay 6 feet apart.</ques>
+    <options>True,False</options>
+    <Answer>
+      False
+    </Answer>
+  </Question>
+  <Question>
+    <ID>13</ID>
+    <Status>open</Status>
+    <ques> Q. Ibuprofen can make COVID-19 worse.</ques>
+    <options>True,False</options>
+    <Answer> False </Answer>
+  </Question>
+  <Question>
+    <ID>14</ID>
+    <Status>open</Status>
+    <ques>
+    </ques>
+    <options>
+    </options>
+    <Answer>
+    </Answer>
+  </Question>
+  <Question>
+    <ID>15</ID>
+    <Status>open</Status>
+    <ques>
+    </ques>
+    <options>
+    </options>
+    <Answer>
+    </Answer>
+  </Question>
+  <Question>
+    <ID>16</ID>
+    <Status>open</Status>
+    <ques>
+    </ques>
+    <options>
+    </options>
+    <Answer>
+    </Answer>
+  </Question>
+  <Question>
+    <ID>17</ID>
+    <Status>open</Status>
+    <ques>
+    </ques>
+    <options>
+    </options>
+    <Answer>
+    </Answer>
+  </Question>
+  <Question>
+    <ID>18</ID>
+    <Status>open</Status>
+    <ques>
+    </ques>
+    <options>
+    </options>
+    <Answer>
+    </Answer>
+  </Question>
+  <Question>
+    <ID>19</ID>
+    <Status>open</Status>
+    <ques>
+    </ques>
+    <options>
+    </options>
+    <Answer>
+    </Answer>
+  </Question>
+  <Question>
+    <ID>20</ID>
+    <Status>open</Status>
+    <ques>
+    </ques>
+    <options>
+    </options>
+    <Answer>
+    </Answer>
+  </Question>
+  <Display>
+    <Number>5</Number>
+  </Display>
+</QUIZ>

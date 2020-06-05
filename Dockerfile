@@ -4,10 +4,14 @@ WORKDIR /app
 # copy csproj and restore as distinct layers
 COPY *.sln .
 COPY MindShift/*.csproj ./MindShift/
+COPY MindShift.DataAccess/*.csproj ./MindShift.DataAccess/
+COPY MindShift.Models/*.csproj ./MindShift.Models/
 RUN dotnet restore
 
 # copy everything else and build app
 COPY MindShift/. ./MindShift/
+COPY MindShift.DataAccess/. ./MindShift.DataAccess/
+COPY MindShift.Models/. ./MindShift.Models/
 WORKDIR /app/MindShift
 RUN dotnet publish -c Release -o out
 
