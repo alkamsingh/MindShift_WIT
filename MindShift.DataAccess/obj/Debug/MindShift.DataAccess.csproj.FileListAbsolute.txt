@@ -1,5 +1,0 @@
-C:\Users\a101\Documents\Visual Studio 2015\Projects\Hackthon\CovidHawks\MindShift.DataAccess\bin\Debug\MindShift.DataAccess.dll
-C:\Users\a101\Documents\Visual Studio 2015\Projects\Hackthon\CovidHawks\MindShift.DataAccess\bin\Debug\MindShift.DataAccess.pdb
-C:\Users\a101\Documents\Visual Studio 2015\Projects\Hackthon\CovidHawks\MindShift.DataAccess\obj\Debug\MindShift.DataAccess.csprojResolveAssemblyReference.cache
-C:\Users\a101\Documents\Visual Studio 2015\Projects\Hackthon\CovidHawks\MindShift.DataAccess\obj\Debug\MindShift.DataAccess.dll
-C:\Users\a101\Documents\Visual Studio 2015\Projects\Hackthon\CovidHawks\MindShift.DataAccess\obj\Debug\MindShift.DataAccess.pdb
