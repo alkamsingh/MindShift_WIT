@@ -1,21 +1,19 @@
-FROM mcr.microsoft.com/dotnet/core/sdk:3.1 AS build
+FROM microsoft/dotnet-framework:4.5.2-sdk AS build
 WORKDIR /app
 
 # copy csproj and restore as distinct layers
 COPY *.sln .
-COPY MindShift/*.csproj ./MindShift/
-COPY MindShift.DataAccess/*.csproj ./MindShift.DataAccess/
-COPY MindShift.Models/*.csproj ./MindShift.Models/
-RUN dotnet restore
+COPY MindShoft/*.csproj ./MindShift/
+COPY MindShift/*.config ./MindShift/
+RUN nuget restore
 
 # copy everything else and build app
 COPY MindShift/. ./MindShift/
-COPY MindShift.DataAccess/. ./MindShift.DataAccess/
-COPY MindShift.Models/. ./MindShift.Models/
 WORKDIR /app/MindShift
-RUN dotnet publish -c Release -o out
+RUN msbuild /p:Configuration=Release
 
-FROM mcr.microsoft.com/dotnet/core/aspnet:3.1 AS runtime
+
+# copy build artifacts into runtime image
+FROM microsoft/aspnet:4.5.2 AS runtime
 WORKDIR /app
-COPY --from=build /app/MindShift/out ./
-ENTRYPOINT ["dotnet", "MindShift.dll"]
+COPY --from=build /app/MindShiftp/. ./
