@@ -1,0 +1,78 @@
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\ApplicationInsights.config
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\roslyn\csc.exe
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\roslyn\System.Collections.Immutable.dll
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\roslyn\vbc.exe
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\roslyn\VBCSCompiler.exe
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\roslyn\VBCSCompiler.exe.config
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\MindShift.dll.config
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\MindShift.dll
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\MindShift.pdb
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\AjaxControlToolkit.dll
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\Microsoft.AI.Web.dll
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\Microsoft.AI.WindowsServer.dll
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\Microsoft.ApplicationInsights.dll
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\MindShift.Models.dll
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\MindShift.DataAccess.dll
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\HtmlAgilityPack.dll
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\AjaxMin.dll
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\MindShift.Models.pdb
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\Microsoft.AI.Web.xml
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\Microsoft.AI.WindowsServer.xml
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\Microsoft.ApplicationInsights.xml
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\bin\MindShift.DataAccess.pdb
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\obj\Release\MindShift.csprojResolveAssemblyReference.cache
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\obj\Release\MindShift.dll
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift\obj\Release\MindShift.pdb
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\ApplicationInsights.config
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\roslyn\csc.exe
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\roslyn\vbc.exe
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\roslyn\VBCSCompiler.exe
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\MindShift.dll.config
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\MindShift.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\MindShift.pdb
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\AjaxControlToolkit.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\Microsoft.AI.Web.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\MindShift.Models.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\MindShift.DataAccess.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\Microsoft.AI.Web.xml
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\MindShift.Models.pdb
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\bin\MindShift.DataAccess.pdb
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\obj\Release\MindShift.csprojResolveAssemblyReference.cache
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\obj\Release\MindShift.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift\obj\Release\MindShift.pdb

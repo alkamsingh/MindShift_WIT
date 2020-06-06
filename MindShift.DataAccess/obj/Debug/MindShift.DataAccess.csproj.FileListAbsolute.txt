@@ -1,0 +1,8 @@
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift.DataAccess\bin\Debug\MindShift.DataAccess.dll
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift.DataAccess\bin\Debug\MindShift.DataAccess.pdb
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift.DataAccess\obj\Debug\MindShift.DataAccess.dll
+c:\users\a101\documents\visual studio 2015\Projects\Hackthon\MindShift\MindShift.DataAccess\obj\Debug\MindShift.DataAccess.pdb
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift.DataAccess\bin\Debug\MindShift.DataAccess.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift.DataAccess\bin\Debug\MindShift.DataAccess.pdb
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift.DataAccess\obj\Debug\MindShift.DataAccess.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift.DataAccess\obj\Debug\MindShift.DataAccess.pdb

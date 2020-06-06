@@ -1,0 +1,7 @@
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift.Models\bin\Debug\MindShift.Models.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift.Models\bin\Debug\MindShift.Models.pdb
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift.Models\bin\Debug\MindShift.DataAccess.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift.Models\bin\Debug\MindShift.DataAccess.pdb
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift.Models\obj\Debug\MindShift.Models.csprojResolveAssemblyReference.cache
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift.Models\obj\Debug\MindShift.Models.dll
+C:\Users\mgupta14\Desktop\MindShift\MindShift\MindShift.Models\obj\Debug\MindShift.Models.pdb
