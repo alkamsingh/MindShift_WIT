@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hackathon Notification</title>
+<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+ 
+<script src="https://code.jquery.com/ui/1.11.1/jquery-ui.min.js"></script>
+
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css" />
+
+</head>
+<body>
+<div id="dialog">
+<P>Its been a long time you are working on your system. Are you stressed out?</p>
+<p> No worries. Have a quick break/relaxation time.</p>
+<input type="button" value="Click Me" onclick="window.open('MindshiftEmployee.aspx')" />
+</div>
+<script>
+
+    console.log( "ready!" );
+//console.log(Notification.permission);
+   //if (Notification.permission === "granted") {
+    //  alert("we have permission");
+   //} else if (Notification.permission == "denied") {
+   //   Notification.requestPermission().then(permission => {
+    //     console.log(permission);
+   //   });
+  // }
+
+  $(function() {
+    $( "#dialog" ).dialog({
+        position: {
+            my: "left top",
+            at: "right bottom"
+        }
+    });
+});
+
+</script>
+
+</body>
+</html>

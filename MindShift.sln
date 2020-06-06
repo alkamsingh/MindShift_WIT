@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindShift", "MindShift\MindShift.csproj", "{AC19C31B-D651-4AEF-9606-34B6B3897AD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindShift.DataAccess", "MindShift.DataAccess\MindShift.DataAccess.csproj", "{5E13D58F-41DE-416E-94BC-37B0D58D5138}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindShift.Models", "MindShift.Models\MindShift.Models.csproj", "{368B246E-E163-484F-BA8A-8BE0BE235CC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC19C31B-D651-4AEF-9606-34B6B3897AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC19C31B-D651-4AEF-9606-34B6B3897AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC19C31B-D651-4AEF-9606-34B6B3897AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC19C31B-D651-4AEF-9606-34B6B3897AD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E13D58F-41DE-416E-94BC-37B0D58D5138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E13D58F-41DE-416E-94BC-37B0D58D5138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E13D58F-41DE-416E-94BC-37B0D58D5138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E13D58F-41DE-416E-94BC-37B0D58D5138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{368B246E-E163-484F-BA8A-8BE0BE235CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{368B246E-E163-484F-BA8A-8BE0BE235CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{368B246E-E163-484F-BA8A-8BE0BE235CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{368B246E-E163-484F-BA8A-8BE0BE235CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
